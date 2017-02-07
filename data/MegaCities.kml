@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Tokyo</name>
+<description>Tokyo Tokyo, Japan</description>
+<Point><coordinates>139.8089447,35.6832085,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Delhi</name>
+<description>Delhi Delhi, India</description>
+<Point><coordinates>77.2164307,28.6449795,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shanghai</name>
+<description>Shanghai Shanghai, China</description>
+<Point><coordinates>121.5161362,31.2241459,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>São Paulo</name>
+<description>São Paulo Sao Paulo, Brazil</description>
+<Point><coordinates>-46.6546402,-23.5628395,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mumbai (Bombay)</name>
+<description>Mumbai (Bombay) Mumbai, India</description>
+<Point><coordinates>72.8300934,18.93013,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ciudad de México (Mexico City)</name>
+<description>Ciudad de México (Mexico City) Mexico City, Mexico</description>
+<Point><coordinates>-99.1331329,19.4319496,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Beijing</name>
+<description>Beijing Beijing, China</description>
+<Point><coordinates>116.3876495,39.9065704,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kinki M.M.A. (Osaka)</name>
+<description>Kinki M.M.A. (Osaka) Osaka, Japan</description>
+<Point><coordinates>135.515663,34.681853,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Al-Qahirah (Cairo)</name>
+<description>Al-Qahirah (Cairo) Cairo, Egypt</description>
+<Point><coordinates>31.2421093,30.0454197,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>New York-Newark</name>
+<description>New York-Newark Newark Airport</description>
+<Point><coordinates>-74.174044,40.690255,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dhaka</name>
+<description>Dhaka Dhaka, Bangladesh</description>
+<Point><coordinates>90.3995667,23.7132301,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Karachi</name>
+<description>Karachi Karāchi, Pakistan</description>
+<Point><coordinates>67.0343704,24.9267101,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Buenos Aires</name>
+<description>Buenos Aires Buenos Aires, Argentina</description>
+<Point><coordinates>-58.3734894,-34.6085091,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kolkata (Calcutta)</name>
+<description>Kolkata (Calcutta) Kolkata, India</description>
+<Point><coordinates>88.3712387,22.5705395,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Istanbul</name>
+<description>Istanbul Istanbul, Turkey</description>
+<Point><coordinates>28.9877701,41.06073,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
